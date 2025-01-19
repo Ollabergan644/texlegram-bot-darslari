@@ -27,7 +27,12 @@ async def cmd_olma(callback:types.CallbackQuery):
     await callback.message.answer_photo(photo="https://svetofornadom.ru/upload/iblock/220/kv09u7s9q18jzo9aqw0bgmjfexhced1k/apples.jpg",reply_markup=olma)
     await callback.message.delete()
 
+sadsaddfsaasasdas
 
+asdsadsadasd
+
+
+asd
 async def main():
     await dp.start_polling(bot)
 
